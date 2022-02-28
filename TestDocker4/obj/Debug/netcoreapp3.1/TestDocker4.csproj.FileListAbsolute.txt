@@ -1,0 +1,13 @@
+C:\Users\SPanda\source\repos\TestDocker4\TestDocker4\obj\Debug\netcoreapp3.1\TestDocker4.csprojAssemblyReference.cache
+C:\Users\SPanda\source\repos\TestDocker4\TestDocker4\obj\Debug\netcoreapp3.1\TestDocker4.AssemblyInfoInputs.cache
+C:\Users\SPanda\source\repos\TestDocker4\TestDocker4\obj\Debug\netcoreapp3.1\TestDocker4.AssemblyInfo.cs
+C:\Users\SPanda\source\repos\TestDocker4\TestDocker4\obj\Debug\netcoreapp3.1\TestDocker4.csproj.CoreCompileInputs.cache
+C:\Users\SPanda\source\repos\TestDocker4\TestDocker4\bin\Debug\netcoreapp3.1\TestDocker4.exe
+C:\Users\SPanda\source\repos\TestDocker4\TestDocker4\bin\Debug\netcoreapp3.1\TestDocker4.deps.json
+C:\Users\SPanda\source\repos\TestDocker4\TestDocker4\bin\Debug\netcoreapp3.1\TestDocker4.runtimeconfig.json
+C:\Users\SPanda\source\repos\TestDocker4\TestDocker4\bin\Debug\netcoreapp3.1\TestDocker4.runtimeconfig.dev.json
+C:\Users\SPanda\source\repos\TestDocker4\TestDocker4\bin\Debug\netcoreapp3.1\TestDocker4.dll
+C:\Users\SPanda\source\repos\TestDocker4\TestDocker4\bin\Debug\netcoreapp3.1\TestDocker4.pdb
+C:\Users\SPanda\source\repos\TestDocker4\TestDocker4\obj\Debug\netcoreapp3.1\TestDocker4.dll
+C:\Users\SPanda\source\repos\TestDocker4\TestDocker4\obj\Debug\netcoreapp3.1\TestDocker4.pdb
+C:\Users\SPanda\source\repos\TestDocker4\TestDocker4\obj\Debug\netcoreapp3.1\TestDocker4.genruntimeconfig.cache
