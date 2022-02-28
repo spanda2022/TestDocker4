@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SPanda\\source\\repos\\TestDocker4\\TestDocker4\\TestDocker4.csproj",
+      "projectUniqueName": "C:\\Users\\SPanda\\source\\repos\\TestDocker4\\TestDocker4.csproj",
       "projectName": "TestDocker4",
-      "projectPath": "C:\\Users\\SPanda\\source\\repos\\TestDocker4\\TestDocker4\\TestDocker4.csproj",
+      "projectPath": "C:\\Users\\SPanda\\source\\repos\\TestDocker4\\TestDocker4.csproj",
       "packagesPath": "C:\\Users\\SPanda\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SPanda\\source\\repos\\TestDocker4\\TestDocker4\\obj\\",
+      "outputPath": "C:\\Users\\SPanda\\source\\repos\\TestDocker4\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
